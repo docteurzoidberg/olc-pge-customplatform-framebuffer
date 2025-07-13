@@ -1,10 +1,10 @@
-# olc::PixelGameEngine custom framebuffer platform
+# olc::PixelGameEngine custom linux framebuffer platform
+
+(using FBG lib from [https://github.com/grz0zrg/fbg](https://github.com/grz0zrg/fbg))
 
 **WIP**
 
-(using FBG lib from [!][fbg repo](https://github.com/grz0zrg/fbg))
-
-## build samplee app (linux with cmake)
+## BUILD PGE APP (linux with cmake)
 
 You need to download and include olcPixelGameEngine.h yourself, place it in the root directory of this sample project
 then:
